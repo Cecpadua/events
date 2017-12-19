@@ -15,10 +15,11 @@ body
 .transbox
 {
   margin:30px;
-  background-color: #ffffff;
+  
   border: 1px solid black;
   /* for IE */
   filter:alpha(opacity=60);
+  background-color: #ffffff;
   /* CSS3 standard */
   opacity:0.6;
 }
