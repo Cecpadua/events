@@ -2,3 +2,25 @@ body
 {
   font-size: 40pt;
 }
+
+.text-justify
+{
+  text-align:justify; 
+  text-justify:inter-ideograph;
+  text-indent: 2.05em!important;
+}
+
+
+
+div.transbox
+{
+  margin:30px;
+  background-color: #000000;
+  border: 1px solid black;
+  /* for IE */
+  filter:alpha(opacity=60);
+  /* CSS3 standard */
+  opacity:0.6;
+}
+
+
