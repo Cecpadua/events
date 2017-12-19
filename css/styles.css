@@ -12,10 +12,10 @@ body
 
 
 
-div.transbox
+.transbox
 {
   margin:30px;
-  background-color: #000000;
+  background-color: #ffffff;
   border: 1px solid black;
   /* for IE */
   filter:alpha(opacity=60);
