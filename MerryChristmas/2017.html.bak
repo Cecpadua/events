@@ -8,45 +8,53 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
 	<!--Title on SearchBar-->
-	<title>2017圣诞节《全新的你》- 帕多瓦基督教华人教会</title>
+	<title>意大利帕多瓦华人基督教会</title>
 	<!--Android Material Design style color-->
 	<meta name="theme-color" content="#D50000">
 	<!-- CSS  -->
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<link href="https://cecpadua.github.io/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 	<link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-</head>
+  </head>
 
   <body>
+
+
+
+
 	<!-- Backgrund -->
 	<div class="parallax-container" >
 	  <div class="parallax">
 		<img src="2017/img1.jpg" alt="Unsplashed background frist">
 	  </div>
+
+
 	  <!-- 1° Fragment -->
-		
+
 	  <div class="section no-pad-bot">
 		<div class="container center-align">
-		  <h1 class="center red-text" style="font-size: 60pt; text-shadow: 3px 3px 3px #ffffff;"><b>全新的你</b></h1>
+		  <h1 class="center red-text" style="font-size: 60pt; text-shadow: 3px 3px 3px #FFCC00;"><b>全新的你</b></h1>
 		  <br/>
 		  <br/>
-		  
+		  <br/>
 		  <a class="btn btn-floating btn-large pulse orange" style="margin-right: 5px">诗歌</a>
           <a class="btn btn-floating btn-large pulse green" style="margin-right: 5px">舞蹈</a>
 		  <a class="btn btn-floating btn-large pulse red" style="margin-right: 5px">小品</a>
 		  <a class="btn btn-floating btn-large pulse blue" style="margin-right: 5px">见证</a>
 		  <br/>
-		  <h2 class="center red-text" style="font-size: 25pt; text-shadow: 2px 2px 2px #ffffff; "><b>我们欢迎您来参加！<br/> 2017年12月25日<br/>（星期一）</b></h2>
+		  <h2 class="center red-text" style="font-size: 20pt; text-shadow: 3px 3px 3px #FFCC00;">我们欢迎您来参加！<br/> 2017年12月25日（星期一）</h2>
+
 
 		</div>
+
 	  </div>
-		</div>
 	  <!-- ./1° Fragment -->
+	</div>
 	<!-- ./Backgrund -->
 
 
 	<!-- 圣诞节的来历 -->
-	<!--<div class="container">
+	<div class="container">
 	  <div class="section">
 
 		<div class="col s12 m12">
@@ -56,6 +64,9 @@
 			  <span class="card-title yellow-text">圣诞节的来历</span>
 			</div>
 			<div class="card-content">
+
+
+
 			  <p class="text-justify" style="text-indent: 2.05em">
 				每年12月25日是全世界大多数基督徒纪念耶稣诞生的日子也是全世界最大的节日。
 				教会开始并无圣诞节，约在耶稣升天后百余年内
@@ -120,16 +131,20 @@
 				</p>
 			  </p>
 			  <br/>
-			 
+			  <p class="right-align">文/翁撒该</p>
+
 			</div>
 		  </div>
 		</div>
 
 	  </div>
-	</div>-->
+	</div>
+
+
+
 
 	<!-- 朋友你在哪里 -->
-	<!--<div class="container">
+	<div class="container">
 	  <div class="section">
 		<div class="col s12 m12">
 		  <div class="card">
@@ -263,12 +278,13 @@
 				  </div>
 				</div>
 			  </div>
-			  
+			  <p class="right-align">文/翁撒该</p>
 			</div>
 		  </div>
 		</div>
 	  </div>
-	</div>-->
+	</div>
+
 
 	
 	<div class="container">
@@ -285,51 +301,37 @@
 						2.小班献唱(马槽圣婴)(PD)<br/>
 						3.中班舞蹈(耶稣喜爱一切小孩)(PD)<br/>
 						4.姊妹团契献唱(耶稣！明亮晨星)(扬声赞美)(PD)<br/>
-						5.小班(拍手歌)(PD)<br/>
-						6.中文学校献唱(白色圣诞节)(PD)<br/>
-						
+						5.中文学校献唱(白色圣诞节)(PD)<br/>
+						6.小班(拍手歌)(PD)<br/>
 						7.中班献唱(平安夜)(普世欢腾)(PD)<br/>
-						8.儿童舞蹈(寻找+诗歌"我的父我的神")(VI)<br/>
+						8.儿童舞蹈(寻找+诗歌我的父我的神)(VI)<br/>
 						9.哑剧(寻找)(PD)<br/>
 						10.舞蹈(有一天)(PD)<br/>
-						11.短讲+呼召(吴超凡)(PD)<br/>
-						12.中班舞蹈(我已得自由)(PD)<br/>
-						13.青少年+大班合唱(你扶持我)(PD)<br/>
-						14.小品(全新的你)(PD)<br/>
-						15.小组唱(全新的你)(PD)<br/>
-						
-						16.青少年献诗(简单的歌+谁能与神的爱隔绝)(VI)<br/>
+						11.青少年献诗(简单的歌+谁能与神的爱隔绝)(VI)<br/>
 						<br/>
-						17.圣经问答<br/>
+						圣经问答<br/>
 						<br/>
-						18.青少年舞蹈(你荣光掌权)(VI)<br/>
-						19.姊妹团契舞蹈(一道江河)(PD)
-						
-						
-						
-						
-						
-						
-
-
-
-						
+						12.青少年舞蹈(你荣光掌权)(VI)<br/>
+						13.小品(全新的你)(PD)<br/>
+						14.小组唱(全新的你)(PD)<br/>
+						15.短讲+呼召(吴超凡)(PD)<br/>
+						16.中班舞蹈(我已得自由)(PD)<br/>
+						17.青少年+大班合唱(你扶持我)(PD)<br/>
+						18.姊妹团契舞蹈(一道江河)(PD)
 					  </p>
 					</div>
 				  </div>
 		  </div>
 		  
-		  
-		  
 		  <div class="col s12 m6">
 			<div class="video-container">
 			  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/c7Y5cZcXK_k?rel=0" frameborder="0" allowfullscreen></iframe>
 			</div>
-			<br/>
+			
 			<div class="video-container">
 			  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/Rkkw8RhH9ck?rel=0" frameborder="0" allowfullscreen></iframe>
 			</div>
-			<br/>
+			
 			<div class="video-container">
 			  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/1UKYcSzroio?rel=0" frameborder="0" allowfullscreen></iframe>
 			</div>
@@ -398,7 +400,7 @@
 	<footer class="page-footer teal">
 	  <!-- Copyright -->
 	  <div class="footer-copyright">
-		<div class="container">2017©基督教意大利帕多瓦华人教会 由<a class="brown-text text-lighten-3" href="https://github.com/whyle">Whyle</a>制作</div>
+		<div class="container">2017©意大利帕多瓦华人基督教教会 由<a class="brown-text text-lighten-3" href="https://github.com/whyle">Whyle</a>制作</div>
 	  </div>
 	  <!-- ./Copyright -->
 	</footer>
