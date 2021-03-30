@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<!--Import Google Icon Font-->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+	<!--Title on SearchBar-->
+	<title>2021复活节《复活的主耶稣》- 帕多瓦基督教华人教会</title>
+	<!--Android Material Design style color-->
+	<meta name="theme-color" content="#D50000">
+	<!-- CSS  -->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="https://cecpadua.github.io/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+	<link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  </head>
+
+  <body>
+    <img id="openin" style="display: none;" width="100%" src="openinbrowser.png">
+
+
+	  
+	<!-- 换行之间 有隐形空格 “　　” -->
+	<div class="container" style="display: none;" id="main">
+	  <div class="section">
+		<div class="row">
+		  
+	  <!-- start youtube -->
+      <div class="col s12 m12" id="youtube">
+        <div class="card">
+            <div class="card-image">
+				<img src="youtube.jpg">
+			  </div>
+              <div class="card-content">
+                  
+              </div>
+          <div class="card-action">
+            <a href="https://youtu.be/vab8mWkbdj8">进入直播</a>
+          </div>
+        </div>
+      </div>
+      <!-- end youtube -->
+			
+    	  <!-- start zoom -->
+          <div class="col s12 m12" id="zoom">
+            <div class="card">
+                <div class="card-image">
+                    <img src="zoom.png">
+                  </div>
+                  <div class="card-content">
+                      会议室ID：819 9838 1487 <br/>
+                      密码：    606062
+                  </div>
+              <div class="card-action">
+                <a href="https://us02web.zoom.us/j/81998381487?pwd=Vkt5eHZ0bE9VQnY0c0tEeUFvd0NVdz09">进入会议</a>
+              </div>
+            </div>
+          </div>
+          <!-- end zoom -->
+		</div>
+		<!-- end row -->
+
+	  </div><!-- end selection -->
+	</div><!-- end container-->
+	
+	
+	
+	<!--------------------------------------------------------------->
+	<!-- Final Page -->
+	<footer class="page-footer teal">
+	  <!-- Copyright -->
+	  <div class="footer-copyright">
+		<div class="container">2020 © 基督教意大利帕多瓦华人教会</div>
+	  </div>
+	  <!-- ./Copyright -->
+	</footer>
+	<!-- ./Final Page -->
+
+	<!--  Scripts -->
+
+
+
+
+
+
+
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js" 
+	  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" 
+	  crossorigin="anonymous"></script>
+	<script src="https://cecpadua.github.io/js/materialize.js"></script>
+	<script src="../js/init.js"></script>
+
+
+    
+    <script>
+        function isWx(){//判断是否为微信
+            var ua =window.navigator.userAgent.toLowerCase();
+            if(ua.match(/MicroMessenger/i) =='micromessenger'){
+                return true;
+            }
+
+            return  false;
+        };
+        if(isWx()){//判断浏览器是否微信
+
+            $("#openin").show();
+        }else{
+            $("#main").show();
+        }
+        
+    </script>
+	<!--  ./Scripts -->
+  </body>
+</html>
+
