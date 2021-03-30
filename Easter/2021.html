@@ -18,12 +18,12 @@
   </head>
 
   <body>
-    <img id="openin" style="display: none;" width="100%" src="openinbrowser.png">
+    <!-- <img id="openin" style="display: none;" width="100%" src="openinbrowser.png"> -->
 
 
 	  
 	<!-- 换行之间 有隐形空格 “　　” -->
-	<div class="container" style="display: none;" id="main">
+	<div class="container" id="main">
 	  <div class="section">
 		<div class="row">
 		  
@@ -95,20 +95,20 @@
 
     
     <script>
-        function isWx(){//判断是否为微信
-            var ua =window.navigator.userAgent.toLowerCase();
-            if(ua.match(/MicroMessenger/i) =='micromessenger'){
-                return true;
-            }
+        // function isWx(){//判断是否为微信
+        //     var ua =window.navigator.userAgent.toLowerCase();
+        //     if(ua.match(/MicroMessenger/i) =='micromessenger'){
+        //         return true;
+        //     }
 
-            return  false;
-        };
-        if(isWx()){//判断浏览器是否微信
+        //     return  false;
+        // };
+        // if(isWx()){//判断浏览器是否微信
 
-            $("#openin").show();
-        }else{
-            $("#main").show();
-        }
+        //     $("#openin").show();
+        // }else{
+        //     $("#main").show();
+        // }
         
     </script>
 	<!--  ./Scripts -->
